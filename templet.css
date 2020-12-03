@@ -1,0 +1,150 @@
+body {
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: cover;
+}
+.continer {
+  width: 1170;
+  margin: auto; 
+  
+} 
+.hr{
+  width: 70px;
+  color: gray;
+}
+.top {
+  text-align: center;
+}
+h1 {
+ 
+  color:white;
+font-family: Roboto;
+  font-size: 70px;
+}
+h6{
+  color:rgb(185, 181, 181);
+  
+  
+}
+.right{
+  background-color: white;
+  margin: 0px 80px 0px 80px;
+height: 230px;
+padding: 50px 0 0 0;
+font-family:Roboto; 
+font-weight: bold;
+}
+.rrr{
+  color:#bbb;
+  font-family: Roboto;
+  font-weight: lighter;
+
+}
+
+.wriht{
+  background-color: rgba(255, 255, 255, 0.89);
+  margin: 0px 80px 0px 80px;
+  padding:70px 100px 70px 100px;
+  font-family:Roboto; 
+  color: rgb(151, 140, 140);
+ 
+}
+
+
+.black{
+  background-color:rgba(0, 0, 0, 0.692);
+  margin: 0px 80px 0px 80px;
+  padding:70px 0px 70px 0px;
+}
+.mm{
+  background-color: black;
+  margin: 100px 200px 100px 200px;
+  padding:50px 0px 50px 0px;
+
+  color: #bbb;
+  text-align: center;
+  font-family:Roboto; 
+  font-weight: bold;
+}
+.oo , .jj{
+  float: left;
+margin: auto;
+width: 386px;
+height: 360px;
+
+}
+.pp , .nn{
+float:right;
+margin: auto;
+width: 386px;
+height: 360px;
+
+}
+.k {
+  width: 600px;
+  height: 500px;
+ margin: 400;
+ padding: 200;
+}
+.content1 , .content3{
+  background-color:white;
+  float: right;
+  width: 530px;
+  height: 460px;
+  padding:20px;
+}
+.vie{
+  color: #000;
+  text-align: center;
+}
+.f{
+  float: right;
+  width: 570px;
+  height: 500px;
+ margin: 400;
+ padding: 200;
+}
+.content2{
+  background-color:black;
+  float: left;
+  width: 562px;
+  height: 460px;
+  padding:20px;
+  color: white;
+}
+.cur , .mor{
+  text-align: center;
+  padding-top: 30px;
+}
+.o{
+  width: 600px;
+  height: 500px;
+ margin: 400;
+ padding: 200;
+}
+
+.TEX{
+  color:gray;
+  padding: 40px 70px 40px 70px;
+}
+
+.q{
+  background-color: rgba(0, 0, 0, 0.918);
+  float: left;
+  padding: 50px;
+ margin: 500;
+ height: 400px;
+ width: 600;
+
+}
+.icon{
+  text-align: center;
+  padding: 50px;
+}
+.insta , .fac , .emil , .twi {
+  width: 50px;
+  height: 50px;
+  line-height: center;
+  padding: 10px;
+}
